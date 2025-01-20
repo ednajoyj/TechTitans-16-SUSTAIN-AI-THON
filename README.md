@@ -8,3 +8,6 @@ This project leverages artificial intelligence to provide a personalized mental 
 <li>Web Dashboard: Visual insights to help users understand mental health patterns.
 </ul>
 This platform will therefore aim to support mental well-being by providing meaningful insights while also ensuring data privacy and security.
+
+
+<img src="balena etcher.PNG" width="500" height="300">
