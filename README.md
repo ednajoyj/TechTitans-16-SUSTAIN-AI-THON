@@ -11,3 +11,4 @@ This platform will therefore aim to support mental well-being by providing meani
 
 
 <img src="pic 4.PNG" width="500" height="300">
+<img src="pic 4.PNG" width="500" height="300">
