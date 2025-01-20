@@ -30,3 +30,21 @@ This platform will therefore aim to support mental well-being by providing meani
 # Novelty
 
 # Solution
+User-Centric Chatbot Development
+
+A customized chatbot is developed without dependence on any external APIs to assure faster implementation as well as greater flexibility.
+
+The user inputs are processed by the chatbot, that analyses the sentiment, and responds accordingly for mental health support assistance.
+
+Smooth user interface and an easy interface: React Native offers a smooth user interface, letting users easily key in thoughts while still engaged in the chat and access the program on various media. Custom-built Back-end for functionality
+
+Spring Boot is used on back-end development handling user input through the engine connecting to the backend. Machine learning-based sentiment analysis
+
+Custom sentiment analysis is used to check the mental condition of users with the help of interpretation of text input.
+This way, the evaluation could be done in real-time and personalized conversations with the chatbot can take place.
+Data Management
+It will maintain user interaction along with their changing moods, as well as the responses it received, which is similar to what would be fed back to help monitor users over a period
+Web Application to Monitor
+
+A web application is provided to help users gain more insight into their mental health patterns and how they interact with the chatbot.
+The project will ensure that it is more personalized, efficient, and secure to the user by maintaining control over functionality and data handling with a custom-made chatbot.
