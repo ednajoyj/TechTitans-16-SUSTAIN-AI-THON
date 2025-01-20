@@ -10,4 +10,4 @@ This project leverages artificial intelligence to provide a personalized mental 
 This platform will therefore aim to support mental well-being by providing meaningful insights while also ensuring data privacy and security.
 
 
-<img src="balena etcher.PNG" width="500" height="300">
+<img src="pic 4.PNG" width="500" height="300">
