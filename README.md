@@ -11,6 +11,16 @@ This platform will therefore aim to support mental well-being by providing meani
 
 # Workflow Diagram
 <img src="pic 4.PNG" width="500" height="300">
+<p>
+  <ul>    
+    <li><b>User Input:</b> Collects data through a user-friendly interface.
+    <li><b>React Native:</b> Providing an interactive and seamless frontend experience.
+    <li><b>Spring Boot:</b> Handles backend API requests efficiently.
+    <li><b>Hugging Face:</b> Uses the advanced transformers for sentiment analysis.
+    <li><b>Database:</b> Stores user mood history with real time or SQLite options.
+    <li><b>Web Application:</b> Displays insights and trends to track in detail.
+  </ul>
+</p>
 
 # Concept map
 <img src="concept map.jpeg" width="500" height="300">
