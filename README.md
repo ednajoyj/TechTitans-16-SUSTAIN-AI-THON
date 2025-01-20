@@ -30,7 +30,7 @@ This platform will therefore aim to support mental well-being by providing meani
 # Novelty
 
 # Solution
-User-Centric Chatbot Development
+## User-Centric Chatbot Development
 
 A customized chatbot is developed without dependence on any external APIs to assure faster implementation as well as greater flexibility.
 
