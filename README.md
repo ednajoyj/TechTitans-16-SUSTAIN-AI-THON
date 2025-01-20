@@ -1,1 +1,2 @@
-# TechTitans-16-SUSTAIN-AI-THON
+#  Innovating Mental Health Solutions for Educational Institutions
+This project leverages artificial intelligence to provide a personalized mental health support system. Using an interactive React Native interface, users can input data that is processed through Spring Boot APIs and analyzed by Hugging Face transformers for sentiment detection. The results are stored in a real-time database or SQLite, enabling users to monitor their mental health trends via a web application.
