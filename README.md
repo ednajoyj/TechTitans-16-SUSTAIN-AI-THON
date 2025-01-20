@@ -9,6 +9,6 @@ This project leverages artificial intelligence to provide a personalized mental 
 </ul>
 This platform will therefore aim to support mental well-being by providing meaningful insights while also ensuring data privacy and security.
 
-
+# Workflow Diagram
 <img src="pic 4.PNG" width="500" height="300">
 <img src="concept map.jpeg" width="500" height="300">
