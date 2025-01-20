@@ -11,4 +11,6 @@ This platform will therefore aim to support mental well-being by providing meani
 
 # Workflow Diagram
 <img src="pic 4.PNG" width="500" height="300">
+
+# Concept map
 <img src="concept map.jpeg" width="500" height="300">
