@@ -14,3 +14,9 @@ This platform will therefore aim to support mental well-being by providing meani
 
 # Concept map
 <img src="concept map.jpeg" width="500" height="300">
+
+# Tech Stack
+
+# Novelty
+
+# Solution
