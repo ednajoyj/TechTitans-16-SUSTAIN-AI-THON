@@ -27,23 +27,22 @@ This platform will therefore aim to support mental well-being by providing meani
 
 # Tech Stack
 Our project uses the integration of the latest technologies to ensure that it provides an efficient and seamless experience for users: 
-Front-end: 
-It is built with React Native, providing a user-friendly and interactive interface.
+<p>
+<b>Front-end:</b> It is built with React Native, providing a user-friendly and interactive interface.
 Cross-platform compatibility and responsive design ensure that the application can run smoothly on various devices.
-Back-end:
-Powered by Spring Boot, it offers a robust framework for handling API requests and effective management of business logic.
+
+<b>Back-end:</b> Powered by Spring Boot, it offers a robust framework for handling API requests and effective management of business logic.
 It ensures safe and efficient communication between the frontend and other components of the system.
-Database:
-It uses Realtime Database or SQLite for storing data in an efficient and reliable manner to retrieve the user's data, which includes the mood history and results of the sentiment analysis.
 
+<b>Database:</b> It uses Realtime Database or SQLite for storing data in an efficient and reliable manner to retrieve the user's data, which includes the mood history and results of the sentiment analysis.
 The choice of database ensures low latency and real-time synchronization that improves the user experience.
-AI/ML Integration:
 
-Hugging Face Transformers is used, a state-of-the-art machine learning library, for sentiment analysis of user inputs.
+<b>AI/ML Integration:</b> Hugging Face Transformers is used, a state-of-the-art machine learning library, for sentiment analysis of user inputs.
 This component of natural language processing would allow very meaningful and informative analysis of behavioral trends in regards to mental health.
 
-Platform : As a Developed Web Application so easily accessible. Enables users in their ability to constantly check and scrutinize their pattern and tendencies of Mental Health from almost everywhere.
+<b>Platform :</b> As a Developed Web Application so easily accessible. Enables users in their ability to constantly check and scrutinize their pattern and tendencies of Mental Health from almost everywhere.
 Technologies integrated; deliver a completely holistic and therefore trustworthy solution.
+</p>
 
 # Novelty
 This project is innovative because it tackles mental health issues through the incorporation of advanced technology and user-centric design. The main novelties of the project are:
