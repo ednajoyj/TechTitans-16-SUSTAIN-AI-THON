@@ -45,28 +45,32 @@ Technologies integrated; deliver a completely holistic and therefore trustworthy
 </p>
 
 # Novelty
+<p>
 This project is innovative because it tackles mental health issues through the incorporation of advanced technology and user-centric design. The main novelties of the project are:
 
-Real-Time Sentiment Analysis:
+<b>Real-Time Sentiment Analysis:</b>
 
-This project uses Hugging Face Transformers to analyze user inputs in real-time and gives personalized insights into trends about mental health. This will give users correct and immediate feedback on their emotional states. Cross-Platform Accessibility:
+This project uses Hugging Face Transformers to analyze user inputs in real-time and gives personalized insights into trends about mental health. This will give users correct and immediate feedback on their emotional states. 
+
+<b>Cross-Platform Accessibility:</b>
 
 Developed by React Native, the application has the compatibility across Android and iOS, ensuring no one misses a chance of utilization on whichever mobile device.
-Seamless Data Flow:
 
+<b>Seamless Data Flow:</b>
 API through Spring Boot integration and Realtime Database/SQLite for secured storage of data allows a frictionless and fast flow of data.
 The app lets the user track mood history and mental health tendencies in effortless ways while protecting privacy and confidentiality.
-AI Driven Insights
 
+<b>AI Driven Insights:</b>
 The advanced AI technologies, which are used in it, convert raw user inputs into meaningful mental health insights.
 By integrating natural language processing with real-time analytics, the project gives users actionable recommendations for enhancing their well-being.
-User-Centric Design:
+<b>User-Centric Design:</b>
 
 The focus is on a rapid, interactive, and intuitive user interface to ensure that it can be accessed easily by users with diverse technical proficiencies.
 This unique approach to mental health.
 
 This project will bridge a gap between technological innovations and emotional health through real-time data-driven approaches, which remain non-intrusive and non-confronting in nature, to offer something as simple yet highly effective as:
-Accessibility through innovative technology leads this project towards defining how persons monitor and treat their mental state within a novel, tech-dependent world.
+Accessibility through innovative technology leads this project towards defining how persons monitor and treat their mental state within a novel, tech-dependent world
+</p>
 
 # Solution
 ## User-Centric Chatbot Development
